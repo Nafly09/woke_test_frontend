@@ -18,9 +18,9 @@
 
 <p>Caso queira instalar o projeto para rodar os testes localmente em sua máquina, siga os seguintes passos:</p>
 
-1 - Tenha o [vite]("https://vitejs.dev/guide/") instalado na sua máquina
+1 - Tenha o [vite](https://vitejs.dev/guide/) instalado na sua máquina
 
-2 - Tenha o node instalado em sua máquina, recomendo o uso do [nvm]("https://github.com/nvm-sh/nvm") para manter várias versões diferentes do NODE na sua máquina para evitar problemas de compatibilidade, nesse projeto foi utilizado o Node na versão v18.19.0.
+2 - Tenha o node instalado em sua máquina, recomendo o uso do [nvm](https://github.com/nvm-sh/nvm) para manter várias versões diferentes do NODE na sua máquina para evitar problemas de compatibilidade, nesse projeto foi utilizado o Node na versão v18.19.0.
 
 3 - Após isso basta navegar para a pasta onde está o projeto e rodar o comando no seu terminal para instalar as dependência do projeto: <br/>
 
